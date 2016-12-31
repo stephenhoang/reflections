@@ -1,5 +1,22 @@
+
 What happens when you initialize a repository? Why do you need to do it?
 
 
 
+How can you use the staging area to make sure you have one commit per logical change?
 
+
+
+To tell you the truth: I have no idea about this. What are you talking about.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+The branch helps us to modify and create alot of different versions of the code.
+
+
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+This is wonderful if we can manipulate it.
