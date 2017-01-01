@@ -1,1 +1,10 @@
 This is the content for reflection 3.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+
+Forking allows you to copy a respiratory from other Github account to yours. It helps Github make credits to the owner of the original Github respiratory. After forking the respiratory from other Github account, now you have your own respiratory.
+
+Cloning allows you to copy a respiratory from other to you local Git. However, when you push it to you local Github, it does not credit to the first owner of the respiratory.
+
+Branching is an action that you make a new direction to your respiratory. It belongs to your own respiratory and have nothing to do with other people.
